@@ -5,11 +5,11 @@ A one-page broadsheet front page for the make.fun news-image competition:
 Monday 23 November 2026, with four illustrated cards for the day's
 biggest stories.
 
-![news-image-20261123](https://make.fun/badge/news-image-20261123.svg)
-![rank](https://make.fun/badge/news-image-20261123/jontumpil/makefun-news-image-20261123/rank.svg)
-![reward](https://make.fun/badge/news-image-20261123/jontumpil/makefun-news-image-20261123/reward.svg)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/jontumpil/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/jontumpil/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-Competition: https://make.fun/competitions/news-image-20261123
+Competition: https://make.fun/bounty/news-image-20261123
 
 ## The day in brief
 
